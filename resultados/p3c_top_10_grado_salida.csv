@@ -1,0 +1,11 @@
+nodo,grado_entrada,grado_salida,orientacion,es_colgante
+302,211,256,right-leaning,False
+105,39,140,left-leaning,False
+64,39,131,left-leaning,False
+66,20,131,left-leaning,False
+660,19,123,right-leaning,False
+32,101,115,left-leaning,False
+539,105,113,right-leaning,False
+445,101,110,right-leaning,False
+159,17,109,left-leaning,False
+23,72,106,left-leaning,False
